@@ -1,6 +1,6 @@
 
-## Neurocomputation with Geometric Algebra  
-# Steven Shepard @ Redwood Center for Theoretical Neuroscience
+# Neurocomputation with Geometric Algebra  
+### Steven Shepard @ Redwood Center for Theoretical Neuroscience
 
 This is a page to consolidate information on using Geometric Algebra for computation, specifically for neural networks. 
 
