@@ -6,10 +6,23 @@ This is a page to consolidate information on using Geometric Algebra for computa
 
 It will distill literature and host some programming examples
 
+
+For implementation of GA the main packages needed will be :
+numpy 
+clifford
+
+simply install clifford with
+```markdown 
+pip install clifford
+```
+
+or follow link for alternatives:https://clifford.readthedocs.io/en/latest/clifford on python 
 ### Markdown
 
 ```markdown
-Syntax highlighted code block
+
+import numpy as np
+import clifford as cf
 
 # Header 1
 ## Header 2
