@@ -6,18 +6,26 @@ This is a page to consolidate information on using Geometric Algebra for computa
 
 It will distill literature and host some programming examples
 
-
+# Installations 
 For implementation of GA the main packages needed will be :
 numpy 
 clifford
 
-simply install clifford with
+
+simply install clifford and/or numpy with
 ```markdown 
 pip install clifford
-```
 
-or follow link for alternatives:https://clifford.readthedocs.io/en/latest/clifford on python 
-### Markdown
+pip install numpy
+```
+or follow link for alternative download options :[https://clifford.readthedocs.io/en/latest/clifford]
+
+### Quick Start example 
+The first step in computing with GA is to define the GA space. Read this pages on GA Vectors Spaces to understand what is meant here. It may take experimentation to determine which space is ideal for your application. The spaces included in the pacakage are the following:
+g2
+g3
+g4
+g5
 
 ```markdown
 
